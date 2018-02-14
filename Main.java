@@ -39,7 +39,8 @@ public class Main {
             return;
     }
 
-
+// random comment for lab 5
+        
     rawRange = Math.floor(mpg * tc * (gt * 0.01));
 
     if (gt >= 0 && gt <= 100) {
